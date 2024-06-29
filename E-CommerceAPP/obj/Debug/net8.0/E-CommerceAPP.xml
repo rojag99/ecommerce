@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>E-CommerceAPP</name>
+    </assembly>
+    <members>
+        <member name="T:ECommerceAPP.Migrations.aksjddASASD">
+            <inheritdoc />
+        </member>
+        <member name="M:ECommerceAPP.Migrations.aksjddASASD.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ECommerceAPP.Migrations.aksjddASASD.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ECommerceAPP.Migrations.aksjddASASD.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
